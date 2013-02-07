@@ -1,5 +1,5 @@
 var imgnum = 0;
-var imgsrc = ["img/image1.jpg", "img/image2.jpg", "img/image3.jpg", "img/image4.jpg", "img/image5.jpg"];
+var imgsrc = ["img/image1.png", "img/image2.png", "img/image3.png", "img/image4.png", "img/image5.png"];
 
 $(document).ready(function() {
 	var imageChange = function() {
