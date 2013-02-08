@@ -2,6 +2,8 @@ var imgnum = 0;
 var imgsrc = ["img/image1.png", "img/image2.png", "img/image3.png", "img/image4.png", "img/image5.png"];
 
 $(document).ready(function() {
+
+
 	var imageChange = function() {
 		if(imgnum == 4) {
 			imgnum = 0;
@@ -48,3 +50,9 @@ $(document).ready(function() {
 	};
 	setInterval(imageChange, 5000)
 });
+
+var food = ['Pizza','10.99','Steak','8.00','Chicken','4.50','Wrap','2.00','Quesadilla','5.59'];
+
+var total function() {
+	
+}

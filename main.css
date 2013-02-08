@@ -2,7 +2,7 @@ body{ background-color: #660000;
 	text-align:center;} 
 
 a:link {color:#FFFFFF;}      /* unvisited link */
-a:visited {color:#CC6600;}  /* visited link */
+a:visited {color:#FFFF00;}  /* visited link */
 a:hover {color:#FFFF00;}  /* mouse over link */
 a:active {color:#000000;}  /* selected link */
 
